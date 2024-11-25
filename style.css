@@ -1,0 +1,45 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-color:#f2f2;
+}
+nav{
+    width: 960px;
+    margin: 40px auto;
+    
+}
+#helene{
+    margin: auto;
+    display: block;
+}
+
+figcaption{
+    background-color: black;
+    color: white;
+    width: 960px;
+    padding-bottom: 5px;
+    margin: auto;
+    display: block;
+}
+h2{
+    margin: 40px auto;
+    width: 960px;
+}
+p{
+    margin: 40px auto;
+    width: 960px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#contact{
+    background-color: rgb(27, 5, 16);
+}
+.menu{
+    margin-right: 100px;
+    margin-left: 100px;
+}
